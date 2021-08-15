@@ -2,6 +2,9 @@ Olá! Eu sou o Caio ╰(*°▽°*)╯
 - �📚 Estou estudano Algoritmos,Python,é começando a faculdade de Análise e Desenvolvimento de Sistemas.
 - 📫 Contate-me no email: caioaguiaroliveira@gmail.com
 
+![tumblr_3cf0eb67f5ffb0256a47ef69c35275cd_29d5ecef_400](https://user-images.githubusercontent.com/88971985/129483945-e8ccd114-df28-40ee-80e5-2f5cc582594a.gif)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaguiar1&show_icons=true&theme=dracula)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioaguiar1&layout=compact&langs_count=7&theme=dracula"/>
   
