@@ -1,5 +1,5 @@
 Olá! Eu sou o Caio ╰(*°▽°*)╯ 
-- �📚 Estou estudano Algoritmos,Python,é começando a faculdade de Análise e Desenvolvimento de Sistemas.
+- �📚 Estou estudando Algoritmos,Python,é começando a faculdade de Análise e Desenvolvimento de Sistemas.
 - 📫 Contate-me no email: caioaguiaroliveira@gmail.com
 
 ![tumblr_3cf0eb67f5ffb0256a47ef69c35275cd_29d5ecef_400](https://user-images.githubusercontent.com/88971985/129483945-e8ccd114-df28-40ee-80e5-2f5cc582594a.gif)
