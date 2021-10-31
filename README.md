@@ -2,7 +2,6 @@ Olá! Eu sou o Caio ╰(*°▽°*)╯
 - �📚 Faculdade de Análise e Desenvolvimento de Sistemas, Curso de desenvovimento web.
 - 📊 HTML - CSS3 - Python - JavaScript
 - 📫 Contate-me no email: caioaguiaroliveira@gmail.com
-- Linked: https://www.linkedin.com/in/caio-aguiar-04b015193/
 
 ![tumblr_3cf0eb67f5ffb0256a47ef69c35275cd_29d5ecef_400](https://user-images.githubusercontent.com/88971985/129483945-e8ccd114-df28-40ee-80e5-2f5cc582594a.gif)
 
