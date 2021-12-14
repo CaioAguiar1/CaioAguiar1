@@ -1,19 +1,18 @@
 Olá! Eu sou o Caio ╰(*°▽°*)╯ 
-- �📚 Faculdade de Análise e Desenvolvimento de Sistemas, Curso de python - Data Science.
-- 📊 HTML - CSS3 - Python -
+- �📚 Faculdade de Análise e Desenvolvimento de Sistemas.
 - 📫 Faça contato comigo no email: caioaguiaroliveira@gmail.com 😊
+
+  <img align="center" alt="caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="caio-HTML" height="30" width="7%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img align="center" alt="caio-CSS" height="30" width="7%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 ![tumblr_3cf0eb67f5ffb0256a47ef69c35275cd_29d5ecef_400](https://user-images.githubusercontent.com/88971985/129483945-e8ccd114-df28-40ee-80e5-2f5cc582594a.gif)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaguiar1&show_icons=true&theme=dracula)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioaguiar1&layout=compact&langs_count=7&theme=dracula"/>
-  
-  <img align="center" alt="caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="caio-HTML" height="30" width="7%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="caio-CSS" height="30" width="7%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-  
   
 
 ##
