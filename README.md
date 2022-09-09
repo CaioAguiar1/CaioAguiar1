@@ -7,8 +7,17 @@ Olá! Eu sou o Caio ╰(*°▽°*)╯
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
 
 ![tumblr_3cf0eb67f5ffb0256a47ef69c35275cd_29d5ecef_400](https://user-images.githubusercontent.com/88971985/129483945-e8ccd114-df28-40ee-80e5-2f5cc582594a.gif)
+
+            
+  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioaguiar1&show_icons=true&theme=dracula)
